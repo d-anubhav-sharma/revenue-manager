@@ -1,0 +1,10 @@
+.actionButtons {
+  width: 100%;
+}
+.actionButtons.submit {
+  background-color: aqua;
+}
+#addnewRevenueForm {
+  margin-top: 10vh;
+  margin-left: 30vw;
+}

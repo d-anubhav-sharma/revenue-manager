@@ -1,0 +1,16 @@
+#loadRevenueFromExcelContainer {
+  margin-top: 10px;
+}
+td {
+  border: 1px solid black;
+  padding: 2px;
+}
+.header-row * {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+.footer-row * {
+  font-weight: bold;
+  background-color: grey;
+}
